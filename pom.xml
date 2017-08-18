@@ -29,6 +29,7 @@
     <modules>
         <module>language/dynamic-proxy</module>
         <module>libraries/bytecode</module>
+        <module>language/generic</module>
     </modules>
 
 
