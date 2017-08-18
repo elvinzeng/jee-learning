@@ -3,7 +3,7 @@ package com.gelvt.learning;
 import java.lang.reflect.TypeVariable;
 
 /**
- * 反省擦除
+ * 泛型擦除
  * @author: Elvin Zeng
  * @date: 17-8-18.
  */
