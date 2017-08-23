@@ -32,6 +32,7 @@
         <module>language/generic</module>
         <module>language/annotation</module>
         <module>language/concurrent</module>
+        <module>language/nio</module>
     </modules>
 
 
