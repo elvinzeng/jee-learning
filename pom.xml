@@ -34,6 +34,7 @@
         <module>language/concurrent</module>
         <module>language/nio</module>
         <module>language/reference</module>
+        <module>language/regexp</module>
     </modules>
 
 
