@@ -33,6 +33,7 @@
         <module>language/annotation</module>
         <module>language/concurrent</module>
         <module>language/nio</module>
+        <module>language/reference</module>
     </modules>
 
 
