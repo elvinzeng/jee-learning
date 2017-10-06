@@ -35,6 +35,7 @@
         <module>language/nio</module>
         <module>language/reference</module>
         <module>language/regexp</module>
+        <module>language/thread</module>
     </modules>
 
 
